@@ -2,4 +2,5 @@ file to check the git!
 
 In this file we are checking the new branch!
 
-Now have added the 1st branch
+Now have added the 1st branch!
+Now we are merging to the existing main branch
